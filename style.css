@@ -1,0 +1,19 @@
+body{
+  text-align:center;
+}
+div{
+  margin-top:15px;
+}
+.img-section{
+  display: fixed;
+  justify-content: center;
+}
+.section-style{
+  margin-right: 25px;
+  margin-left: 25px;
+  background-color: white;
+}
+.img{
+    max-width: 150px;
+    height: 300px;
+}
